@@ -136,13 +136,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open Source Community
 - Environmental Organizations
 
-## 📞 Contact
 
-For questions or support, please contact:
-- Email: support@carboncreditapp.com
-- Website: www.carboncreditapp.com
-- Twitter: @CarbonCreditApp
-
----
-
-Made with ❤️ for a greener planet
