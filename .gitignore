@@ -1,0 +1,8 @@
+# Flutter build outputs
+build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# Windows build artifacts
+windows/flutter/ephemeral/
